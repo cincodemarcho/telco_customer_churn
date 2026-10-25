@@ -2,7 +2,7 @@
 
 **Which customers are about to cancel, and what can a telecom company do about it?** This project builds classification models on IBM's Telco Customer Churn dataset to flag at-risk customers and turns the results into concrete retention recommendations.
 
-📓 [View the notebook](telco_churn_model.ipynb) · 📄 [Read the paper (PDF)](telco_churn_paper.pdf) · 📊 [View the slides (PDF)](telco_churn_presentation.pdf)
+📓 [Notebook](telco_churn_model.ipynb) · 📄 [Paper](telco_churn_paper.pdf) · 📊 [Presentation](telco_churn_presentation.pdf)
 
 ---
 
